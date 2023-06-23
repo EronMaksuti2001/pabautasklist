@@ -1,12 +1,14 @@
 const Header  = ({step, totalSteps}) => {
-    // qetu e bon headerin -> 
+   
     return (
         <header>
             
-          SOMETING IN THE HEADER
+          <h2>Choose Service
+            
           <div>
             Step {step}/{totalSteps}
           </div>
+          </h2>
         </header>
     );
 }

@@ -16,6 +16,7 @@ function LandingPage({setStep, data}) {
                 ))
             }
             </ul>
+            <p>Not sure about consultation type? Pleae call <ins>0203 7959063 </ins> </p>
         </main>
     );
 }

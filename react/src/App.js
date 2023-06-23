@@ -8,11 +8,18 @@ import OptionPage from './components/OptionPage';
 
 
 const data = [
-  {id: '1', name: "Post 1"},
-  {id: '2', name: "Post 2"},
-  {id: '3', name: "Post 3"},
-  {id: '4', name: "Post 4"},
-  {id: '5', name: "Post 5"},
+  {id: '1', name: "Anti Wrinkle Treatment"},
+  {id: '2', name: "Dermal Fillers"},
+  {id: '3', name: "Secret RF"},
+  {id: '4', name: "HarmonyCA"},
+  {id: '5', name: "Profhilo"},
+  {id: '6', name: "Facials"},
+  {id: '7', name: "Sclerotherapy"},
+  {id: '8', name: "LED"},
+  {id: '9', name: "Fat Dissolve"},
+  {id: '10', name: "Growth Factors"},
+  {id: '11', name: "Special Package for Time clinic"},
+  {id: '11', name: "Consultation"},
 ];
 
 function App() {

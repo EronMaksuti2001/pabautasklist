@@ -2,7 +2,9 @@ const Footer  = () => {
     // qetu e bon footer -> 
     return (
         <footer>
-          SOMETING IN THE Footeer
+          
+      
+          <h3>Powered By | Pabau</h3>
         </footer>
     );
 }

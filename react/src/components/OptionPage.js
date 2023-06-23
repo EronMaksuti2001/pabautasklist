@@ -14,9 +14,11 @@ function OptionPage({setStep, data}) {
             <div>
             <Link to="/" className="back-button">Back</Link>
             </div>
+            <br></br>
             <h2>Selected option:</h2>
             <p>{selectedOption.name}</p>
         </main>
+
     );
 }
 
